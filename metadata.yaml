@@ -1,5 +1,8 @@
 _repo: Taikapeili-b-Nelinaytoksinen-satunaytelma_71912
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Larin-Kyösti
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
     - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71912#Taikapeili-b-Nelinaytoksinen-satunaytelma
 gutenberg_issued: '2023-10-19'
 identifiers:
   gutenberg: '71912'
